@@ -1,2 +1,3 @@
 Modificamos el archivo
 Modificamos el archivo en el remoto
+Estamos creando un conflicto
