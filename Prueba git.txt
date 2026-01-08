@@ -1,3 +1,4 @@
 Modificamos el archivo
 Modificamos el archivo en el remoto
 Nuestro fichero es el bueno, no nos gustan los conflictos
+
